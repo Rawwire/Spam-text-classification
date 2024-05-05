@@ -1,4 +1,6 @@
 Spam Text Classification
+
+
 This project demonstrates a simple spam text classification system using a Random Forest Classifier. The classifier is trained on a balanced dataset of spam and ham (non-spam) messages, with a TF-IDF vectorization approach to process the text data. The project utilizes Streamlit to create a user-friendly interface, allowing users to classify text as spam or ham.
 
 
